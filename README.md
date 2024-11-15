@@ -20,7 +20,11 @@
 - **Simple Gameplay**: Easy to learn, hard to master.
 
 ---
+### Windows:
 
+Just download ```TurboRush.exe``` and play!
+
+---
 ### ⚙️ **Installation:**
 1. Clone this repo:
    ```bash
