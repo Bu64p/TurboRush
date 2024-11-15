@@ -28,7 +28,7 @@ Just download ```TurboRush.exe``` and play!
 ### ⚙️ **Installation:**
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Bu64p/turbo-rush.git
+   git clone https://github.com/Bu64p/main.git
    ```
 2. Compile the code with any C++ compiler:
    ```bash
