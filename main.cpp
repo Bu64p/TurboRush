@@ -296,7 +296,7 @@ void displayLoadingScreen() {
     // Display details
     // Display some loading progress
     for (int i = 0; i <= 100; i += 10) {
-        cout << "Welcome to the Car Racing Game!" << endl;
+        cout << "Welcome to the Turbo Rush: Road to Victory!" << endl;
         cout << "Controls: \n A - Move Left\n D - Move Right\n Space - Shoot Bullet" << endl;
         cout << "Loading: [" << string(i / 10, '=') << string(10 - i / 10, ' ') << "] " << i << "%" << endl;
         Sleep(500);
